@@ -2,4 +2,4 @@
 Collection of awesome libraries/frameworks to use.
 
 ## `npm`
-- [`ora`](https://www.npmjs.com/package/ora) - elegant terminal spinner [[`github`]](https://github.com/sindresorhus/ora) #loading-spinner #cli #node
+- [`ora`](https://www.npmjs.com/package/ora) [[`src`]](https://github.com/sindresorhus/ora) - elegant terminal spinner _#loading-spinner #cli #node_

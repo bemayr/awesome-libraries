@@ -1,5 +1,5 @@
 # [bemayr/libraries](github.com/bemayr/libraries)
-Collection of awesome libraries/frameworks to use.
+Collection of awesome libraries/frameworks to use. :chart_with_upwards_trend:
 
 ## [`npm`](https://www.npmjs.com/)
 - [`ora`](https://www.npmjs.com/package/ora) [[src]](https://github.com/sindresorhus/ora) - elegant terminal spinner _#loading-spinner #cli #terminal #node_
